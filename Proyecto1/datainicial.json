@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Saldo": 900.0,
+    "PIN": "2802",
+    "Bloqueada": false,
+    "Movimientos": [
+      {
+        "Tipo": "Pago",
+        "Monto": 100.0,
+        "Fecha": "2024-05-06T20:14:42.445212-06:00",
+        "Balance": 900.0
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Saldo": 2500.0,
+    "PIN": "5678",
+    "Bloqueada": false,
+    "Movimientos": []
+  },
+  {
+    "Id": 3,
+    "Saldo": 10000.0,
+    "PIN": "9876",
+    "Bloqueada": true,
+    "Movimientos": []
+  }
+]
