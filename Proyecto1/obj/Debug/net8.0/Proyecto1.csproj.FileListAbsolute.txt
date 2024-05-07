@@ -33,3 +33,4 @@
 /Users/bmanzo/Developer/Proyecto/Proyecto1/obj/Debug/net8.0/Proyecto1.genruntimeconfig.cache
 /Users/bmanzo/Developer/Proyecto/Proyecto1/obj/Debug/net8.0/ref/Proyecto1.dll
 /Users/bmanzo/Developer/Proyecto/Proyecto1/bin/Debug/net8.0/datainicial.json
+/Users/bmanzo/Developer/Proyecto/Proyecto1/obj/Debug/net8.0/Proyecto1.sourcelink.json
