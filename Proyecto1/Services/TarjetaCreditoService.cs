@@ -33,6 +33,9 @@ public class TarjetaCreditoService
   public decimal? ConsultarSaldo(int idTarjeta)
   {
     var tarjeta = _tarjetasCredito.FirstOrDefault(t => t.Id == idTarjeta);
+    // Este codigo no sale en el video, durante la grabación me di cuenta de esta validacion.
+    if (tarjeta == null) throw new Exception("Tarjeta no encontrada");
+
     return tarjeta?.Saldo;
   }
 
